@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "55114717780",
+    "firebase_url": "https://my-project-c9430.firebaseio.com",
+    "project_id": "my-project-c9430",
+    "storage_bucket": "my-project-c9430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55114717780:android:0be7948c8a76dcbcc42bc1",
+        "android_client_info": {
+          "package_name": "com.scopic.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55114717780-tathh1u6pmvog0dnvn9tkm1rfb8ojeld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ohoetl-rhXmwW-9NI8Y20h5Mw_h2Rzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55114717780-tathh1u6pmvog0dnvn9tkm1rfb8ojeld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
